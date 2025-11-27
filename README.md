@@ -37,3 +37,36 @@
 |  [   Kontakt aufnehmen   ]    |
  -------------------------------
 
+
+
+### Stufe 2
+
+ ------------------------------------------------------
+|                     Navigation                      |
+|   Home     About     Contact                        |
+ ------------------------------------------------------
+|                     Profilfoto                      |
+|                (groß, oben zentriert)               |
+ ------------------------------------------------------
+|                   Dein Name                         |
+|         (leicht größer, fett, zentriert)            |
+ ------------------------------------------------------
+|                Kurzer Beschreibungstext             |
+|      (ein Absatz, 1–2 Sätze über dich)             |
+ ------------------------------------------------------
+|                   [ Contact me ]                    |
+|   (Button, zentriert)                               |
+ ------------------------------------------------------
+|   Section-Titel: "Things I like"                    |
+|     • Liste von 3 Dingen                            |
+|     • (ungenordnete Liste)                          |
+ ------------------------------------------------------
+|   Section-Titel: "Goals"                            |
+|     1. Ein Ziel                                     |
+|     2. Zweites Ziel                                 |
+|     3. Drittes Ziel                                 |
+|   (geordnete Liste)                                 |
+ ------------------------------------------------------
+|           [ Learn more about me ]                   |
+|       Zweiter Button, zentriert                     |
+ ------------------------------------------------------

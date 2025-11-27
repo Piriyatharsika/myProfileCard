@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+    color: darkblue;
+    font-family: "Roboto", sans-serif;
+    display: flex; /** Flex ermöglicht das Layout in Spalten **/
+    flex-direction: column; /** ordnet nav + card untereinander**/
+    align-items: center; /** Zentriert ALLE Kinder horizontal **/
+    margin: 0;
+
+}
+
+
+header {
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 25px;
+    display: flex; /** Flex ermöglich **/
+    justify-content: center;
+    gap: 30px;
+    background-color: lavenderblush;
+
+}
+
+.navbar a:link {
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: rosybrown;
+}
+
+.profile-card {
+    text-align: center;
+    color: darkblue;
+    margin: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    max-width: 400px;
+    width: 90%;
+    background-color: lavenderblush;
+}
+
+img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100%;
+    border-bottom: 5px solid black;
+    height: 400px;
+}
+
+.btn-contact {
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lavender;
+}
+
+.btn-contact:hover {
+    background-color: darkblue;
+    color: lavender;
+}
+
+h1 {
+    margin: 20px;
+}
